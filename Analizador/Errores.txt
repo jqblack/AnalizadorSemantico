@@ -1,0 +1,2 @@
+Linea  Error  
+8     Error en la declaración de la variable  
